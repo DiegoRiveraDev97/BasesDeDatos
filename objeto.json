@@ -1,0 +1,19 @@
+{
+    "localizacion":"norte",
+    "latitud": 10.8765,
+    "longitud":"1000 grados nor-oriente",
+    "ciudad":"irkustk",
+    "pais":"siberia",
+    "estacion":"nieve",
+    "codigo_postal":"123400000567800090",
+    "guerra_in_ciudad":false,
+    "presidente":"putin",
+    "aliados":{
+        "alemania":true,
+        "china":true,
+        "españa":false,
+        "italia":"no responde",
+        "efectivos":2
+    
+    }
+}
